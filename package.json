@@ -1,0 +1,29 @@
+{
+  "name": "sk8boardz",
+  "version": "1.0.0",
+  "description": "learning how to play with git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wproctor23/sk8boardz.git"
+  },
+  "keywords": [
+    "fub",
+    "fluffy",
+    "super..."
+  ],
+  "author": "wproctor23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wproctor23/sk8boardz/issues"
+  },
+  "homepage": "https://github.com/wproctor23/sk8boardz#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "normalize.css": "^4.1.1"
+  }
+}
